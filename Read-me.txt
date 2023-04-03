@@ -1,0 +1,7 @@
+Read-me Page
+
+Lyle, Ethan and Ben, all worked on file weekend_3-2_revised.py
+
+We switched roles of driver (typer), and met twice over the weekend to complete it.
+
+We had multiple issues with merging files through GitHub - on Friday and over the weekend.
